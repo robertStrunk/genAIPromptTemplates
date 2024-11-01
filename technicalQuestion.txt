@@ -1,0 +1,15 @@
+#### Prompt Question Guidelines start ####
+I need a technical response based on verified and authoritative sources only. Please provide an answer rooted in official documentation, academic resources, or well-established technical standards. Avoid assumptions or speculative answers.
+
+If the answer requires an in-depth explanation, summarize the key points, and include references to the specific standards, documentation, or accepted technical practices used.
+
+If there is a lack of clear or definitive information on this topic, acknowledge that limitation and specify any reliable sources that may need to be consulted for further clarification.
+
+Ensure that all points in the response adhere to factual accuracy without deviation.
+#### Prompt Question Guidelines stop ####
+
+#### Prompt Question start ####
+
+>>>>>> Enter Question Here
+
+#### Prompt Question stop ####
